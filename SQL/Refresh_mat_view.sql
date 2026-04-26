@@ -1,0 +1,1 @@
+REFRESH MATERIALIZED VIEW movie_rating_stats;
