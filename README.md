@@ -2,7 +2,16 @@
 
 An end-to-end Data Science project featuring a **Hybrid Recommendation Engine** and an interactive **Exploratory Data Analysis (EDA)** dashboard. This application leverages real-world IMDB data to provide personalized movie suggestions and deep industry insights.
 
-![App Demo](Visualizes/Streamlit Site- Recommendation Page.png)
+## 🖼️ Application Preview
+
+<p align="center">
+  <img src="Visualizes/Streamlit_Site_%20Recommendation_Page.png" width="90%" alt="AI Powered Movie Recommendations"/>
+</p>
+
+<p align="center">
+  <img src="Visualizes/Streamlit_Site_Top%2010_Movies_Page.png" width="48%" alt="Top Rated Movies Dashboard"/>
+  <img src="Visualizes/Streamlit_Site_Data_Analysis_Page.png" width="48%" alt="Exploratory Data Analysis"/>
+</p>
 
 ## 🚀 Core Features
 * **Hybrid Recommender System:** Seamlessly combines *Content-Based Filtering* (using metadata like genres and keywords) and *Popularity-Based* metrics.
