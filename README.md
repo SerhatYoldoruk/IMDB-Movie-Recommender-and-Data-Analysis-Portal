@@ -43,3 +43,8 @@ The portal includes detailed visualizations such as:
 * Distribution of movie ratings across different decades.
 * Trend analysis of movie releases from the 1900s to the present.
 * Correlation between budget, revenue, and weighted scores.
+
+* ## 📊 Dataset Information
+The project utilizes two main datasets sourced from **Kaggle (IMDB Movies Dataset)** (https://www.kaggle.com/datasets/ayberkural/movielens-movie-csv-and-rating-csv?resource=download) thanks to Ayberk Ural:
+* `movie.csv`: Contains metadata for 40,000+ movies (titles, genres, years, etc.).
+* `rating.csv`: Contains user-provided ratings that power the recommendation engine.
